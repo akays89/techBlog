@@ -5,7 +5,7 @@ const addComment = async (event) => {
       window.location.toString().split('/').length - 1
   ];
 
-  //alert(userComment+" "+post_id);
+  
 
   if (comment) {
       const response = await fetch('/api/comment', {
