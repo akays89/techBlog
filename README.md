@@ -13,8 +13,10 @@ This is a CMS-style blog site. It follows the MVC paradigm in its file structure
 ## Installation
  You can clone this repository. Node.js is required to run this application. You will need to npm install the required npm packages and npm run seed to run the seed data.
 ## Usage
-You can view and use this application by clicking on the link below for a live demo. https://rocky-ravine-42631.herokuapp.com/
-<img src = 'homework12/assets/Screen Shot 2021-09-08 at 12.29.35 AM.png'/>
+You can view and use this application by clicking on the link below for a live demo.
+
+https://rocky-ravine-42631.herokuapp.com/
+<img src = 'https://github.com/akays89/techBlog/blob/master/assets/Screen%20Shot%202021-09-08%20at%2012.29.35%20AM.png'/>
 ## Contributions
 You can contribute by signing up for this application and writing posts and commenting on others posts.
 ## Test
